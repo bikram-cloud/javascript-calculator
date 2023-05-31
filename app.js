@@ -103,6 +103,7 @@ class Calculator {
 // const currentOperandTextElement = document.querySelector(
 //   '[data-current-operand]'
 // );
+// Type
 
 const numberButtons = qsAll('[data-number]');
 const operationButtons = qsAll('[data-operation]');
